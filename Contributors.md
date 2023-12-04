@@ -1,5 +1,6 @@
 
 # Contributors
+- [Heather Burbank] (https://github.com/hburbank)
 - [Kim JunHyun] (https://github.com/NaMooJoon)
 - [Kiyo] (https://github.com/kiyoone)
 - [rawfiul](https://github.com/rawfiul)
