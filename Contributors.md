@@ -1,7 +1,7 @@
 
 # Contributors
-- [Heather Burbank] (https://github.com/hburbank)
 - [Kim JunHyun] (https://github.com/NaMooJoon)
+- [Heather Burbank] (https://github.com/hburbank)
 - [Kiyo] (https://github.com/kiyoone)
 - [rawfiul](https://github.com/rawfiul)
 - [Gaurav Parajuli](https://github.com/gauravparajuli)
